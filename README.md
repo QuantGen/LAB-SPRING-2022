@@ -8,7 +8,7 @@
 | Date             | Presenter(s)     |  Topic(s)        |  Materials    |
 | ---------------  | ---------------- | ---------------- | ------------- |
 |   Fr. Jan 21st  | Scott                |  DNA-Nexus          |               |
-|   Fr. Jan 28th  | Gustavo             |  A Forward Selection Algorithm to identify credible sets in Bayesian Variable Selection Models          |               |
+|   Fr. Jan 28th  | Gustavo             |  1) `[30min]` A Forward Selection Algorithm to identify credible sets. 2) `[30min]` Plans for the lab meeting.        |               |
 |   Fr. Feb 4th  |               |            |               |
 |   Fr. Feb 11th  |               |            |               |
 |   Fr. Feb 18th  |               |            |               |
