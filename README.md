@@ -9,7 +9,7 @@
 | ---------------  | ---------------- | ---------------- | ------------- |
 |   Fr. Jan 21st  | Scott                |  DNA-Nexus          |               |
 |   Fr. Jan 28th  | Gustavo             |  1) `[30min]` A Forward Selection Algorithm to identify credible sets. 2) `[30min]` Plans for the lab meeting.        |               |
-|   Fr. Feb 4th  |               |            |               |
+|   Fr. Feb 4th  |  Kyle             |  Statin & Dementia research          |               |
 |   Fr. Feb 11th  |               |            |               |
 |   Fr. Feb 18th  |               |            |               |
 |   Fr. Feb 25th  |               |            |               |
