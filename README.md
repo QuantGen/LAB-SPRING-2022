@@ -13,7 +13,7 @@
 |   Fr. Feb 11th  |               |            |               |
 |   Fr. Feb 18th  |               |            |               |
 |   Fr. Feb 25th  |               |            |               |
-|   Fr. Mar 4th  |               |            |               |
+|   Fr. Mar 4th  |   Metabolomic analysis in TIGER             |            |               |
 |   Fr. Mar 11th  |  Spring Break            |            |               |
 |   Fr. Mar 18th  |               |            |               |
 |   Fr. Mar 25th  |               |            |               |
