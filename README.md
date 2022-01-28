@@ -15,7 +15,7 @@
 |   Fr. Feb 25th  |               |            |               |
 |   Fr. Mar 4th  |      Agustin          |     Metabolomic analysis in TIGER       |               |
 |   Fr. Mar 11th  |  Spring Break            |            |               |
-|   Fr. Mar 18th  |               |            |               |
+|   Fr. Mar 18th  |     Ben          |     DNA methylation association study       |               |
 |   Fr. Mar 25th  |               |            |               |
 |   Fr. Apr 1st  |               |            |               |
 |   Fr. Apr 8th  |               |            |               |
