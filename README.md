@@ -12,8 +12,8 @@
 |   Fr. Feb 4th  |  Kyle             |  Statin & Dementia research          |               |
 |   Fr. Feb 11th  |               |            |               |
 |   Fr. Feb 18th  |               |            |               |
-|   Fr. Feb 25th  |               |            |               |
-|   Fr. Mar 4th  |      Agustin          |     Metabolomic analysis in TIGER       |               |
+|   Fr. Feb 25th  |       Agustin        |    Metabolomic analysis in TIGER        |               |
+|   Fr. Mar 4th  |      Guanqi          |     Metabolomic analysis in TIGER       |               |
 |   Fr. Mar 11th  |  Spring Break            |            |               |
 |   Fr. Mar 18th  |     Ben          |     DNA methylation association study       |               |
 |   Fr. Mar 25th  |               |            |               |
