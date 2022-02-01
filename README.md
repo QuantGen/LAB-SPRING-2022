@@ -17,7 +17,7 @@
 |   Fr. Mar 11th  |  Spring Break            |            |               |
 |   Fr. Mar 18th  |     Ben          |     DNA methylation association study       |               |
 |   Fr. Mar 25th  |      Alexa         |      mapping LD differences between racial groups      |               |
-|   Fr. Apr 1st  |               |            |               |
+|   Fr. Apr 1st  |     Anirban          |  Multi-objective optimization          |               |
 |   Fr. Apr 8th  |               |            |               |
 |   Fr. Apr 15th  |               |            |               |
 |   Fr. Apr 22nd  |               |            |               |
