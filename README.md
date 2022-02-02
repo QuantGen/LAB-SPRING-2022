@@ -18,7 +18,7 @@
 |   Fr. Mar 18th  |     Ben          |     DNA methylation association study       |               |
 |   Fr. Mar 25th  |      Alexa         |      mapping LD differences between racial groups      |               |
 |   Fr. Apr 1st  |     Anirban          |  Multi-objective optimization to identify credible sets         |               |
-|   Fr. Apr 8th  |               |            |               |
+|   Fr. Apr 8th  |     Harold          |   Omics community detection         |               |
 |   Fr. Apr 15th  |               |            |               |
 |   Fr. Apr 22nd  |               |            |               |
 |   Fr. Apr 29th  |               |            |               |
