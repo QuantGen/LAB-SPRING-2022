@@ -20,7 +20,7 @@
 |   Fr. Apr 1st  |     Anirban          |  Multi-objective optimization to identify credible sets         |               |
 |   Fr. Apr 8th  |     Harold          |   Omics community detection         |               |
 |   Fr. Apr 15th  |               |            |               |
-|   Fr. Apr 22nd  |               |            |               |
+|   Fr. Apr 22nd  |  Hugo             |  Feed efficiency and FTIR milk-spectra          |               |
 |   Fr. Apr 29th  |               |            |               |
 
 
