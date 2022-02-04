@@ -19,7 +19,7 @@
 |   Fr. Mar 25th  |      Alexa         |      mapping LD differences between racial groups      |               |
 |   Fr. Apr 1st  |     Anirban          |  Multi-objective optimization to identify credible sets         |               |
 |   Fr. Apr 8th  |     Harold          |   Omics community detection         |               |
-|   Fr. Apr 15th  |               |            |               |
+|   Fr. Apr 15th  |     Yifei          |        Topic TBD    |               |
 |   Fr. Apr 22nd  |  Hugo             |  Feed efficiency and FTIR milk-spectra          |               |
 |   Fr. Apr 29th  |               |            |               |
 
