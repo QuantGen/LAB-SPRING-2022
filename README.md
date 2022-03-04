@@ -16,12 +16,12 @@
 |   Fr. Mar 4th  |      Guanqi          |     Personalized Nutrition by Prediction of Glycemic Responses       |       [paper here](https://www.cell.com/cell/fulltext/S0092-8674(15)01481-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867415014816%3Fshowall%3Dtrue)        |
 |   Fr. Mar 11th  |  Spring Break            |            |               |
 |   Fr. Mar 18th  |     Ben          |     DNA methylation association study       |               |
-|   Fr. Mar 25th  |      Alexa         |      mapping LD differences between racial groups      |               |
+|   Fr. Mar 25th  |               |           |               |
 |   Fr. Apr 1st  |     Anirban          |  Multi-objective optimization to identify credible sets         |               |
 |   Fr. Apr 8th  |     Harold          |   Omics community detection         |               |
 |   Fr. Apr 15th  |     Yifei          |        Topic TBD    |               |
 |   Fr. Apr 22nd  |  Hugo             |  Feed efficiency and FTIR milk-spectra          |               |
-|   Fr. Apr 29th  |               |            |               |
+|   Fr. Apr 29th  |      Alexa         |            |               |
 
 
 ## Other seminars/meetings at MSU
