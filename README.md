@@ -15,8 +15,8 @@
 |   Fr. Feb 25th  |       Agustin        |       Use of Metabolomics in Improving Assessment of Dietary Intake    |           [paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5975233/pdf/nihms966199.pdf)    |
 |   Fr. Mar 4th  |      Guanqi          |     Personalized Nutrition by Prediction of Glycemic Responses       |       [paper here](https://www.cell.com/cell/fulltext/S0092-8674(15)01481-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867415014816%3Fshowall%3Dtrue)     / [cartoon video intro](https://www.youtube.com/watch?v=hZWLy7FLvZ4)     |
 |   Fr. Mar 11th  |  Spring Break            |            |               |
-|   Fr. Mar 18th  |     Ben          |     DNA methylation association study       |               |
-|   Fr. Mar 25th  |               |           |               |
+|   Fr. Mar 18th  |           |            |               |
+|   Fr. Mar 25th  |         Ben          |     DNA methylation association study      |               |
 |   Fr. Apr 1st  |     Anirban          |  Multi-objective optimization to identify credible sets         |               |
 |   Fr. Apr 8th  |     Harold          |   Omics community detection         |               |
 |   Fr. Apr 15th  |     Yifei          |        Topic TBD    |               |
