@@ -17,7 +17,7 @@
 |   Fr. Mar 11th  |  Spring Break            |            |               |
 |   Fr. Mar 18th  |           |            |               |
 |   Fr. Mar 25th  |         Ben          |     DNA methylation association study      |               |
-|   Fr. Apr 1st  |     Anirban          |  Multi-objective optimization to identify credible sets         |               |
+|   Fr. Apr 1st  |     Anirban          |  DeepNull models non-linear covariate effects to improve phenotypic prediction and association power   |               |
 |   Fr. Apr 8th  |     Harold          |   Omics community detection         |               |
 |   Fr. Apr 15th  |     Yifei          |        Topic TBD    |               |
 |   Fr. Apr 22nd  |  Hugo             |  Feed efficiency and FTIR milk-spectra          |               |
