@@ -21,7 +21,7 @@
 |   Fr. Apr 8th  |     Harold          |   Omics community detection         |               |
 |   Fr. Apr 15th  |     Yifei          |        Topic TBD    |               |
 |   Fr. Apr 22nd  |  Hugo             |  Feed efficiency and FTIR milk-spectra          |               |
-|   Fr. Apr 29th  |      Alexa         |            |               |
+|   Fr. Apr 29th  |      Ana         |  Disentangling genomic bases of comorbid conditions with Bayesian genomic methods |               |
 
 
 ## Other seminars/meetings at MSU
